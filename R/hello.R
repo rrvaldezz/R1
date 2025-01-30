@@ -14,8 +14,8 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 resta1 <- function(a,b) {
-  print("resta:")
-  c=a-b
-  print(c)
+  #print("resta:")
+  c1=a-b
+  print(c1)
 }
 
