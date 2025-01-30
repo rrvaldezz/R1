@@ -16,4 +16,6 @@
 resta1 <- function(a,b) {
   print("resta:")
   c=a-b
+  print(resta1)
 }
+
